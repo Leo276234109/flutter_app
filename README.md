@@ -1,6 +1,6 @@
 # flutter doctor -v
 
-[✓] Flutter (Channel stable, 1.20.1, on Mac OS X 10.15.5 19F101, locale
+`[✓] Flutter (Channel stable, 1.20.1, on Mac OS X 10.15.5 19F101, locale
     zh-Hans-CN)
     • Flutter version 1.20.1 at /Users/guoguanxing/Downloads/flutter
     • Framework revision 2ae34518b8 (7 days ago), 2020-08-05 19:53:19 -0700
@@ -37,6 +37,7 @@
 
 ! Doctor found issues in 1 category.
 
+`
 
 # flutter run --verbose
 

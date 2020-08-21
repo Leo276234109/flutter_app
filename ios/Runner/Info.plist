@@ -40,15 +40,44 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>io.flutter.embedded_views_preview</key>
-    <true/>
-    <key>NSAppTransportSecurity</key>
-    <dict>
-        <key>NSAllowsArbitraryLoads</key>
-        <true/>
-        <key>NSAllowsArbitraryLoadsInWebContent</key>
-        <true/>
-    </dict>
+	<true/>
+	<key>NSAppTransportSecurity</key>
+	<dict>
+		<key>NSAllowsArbitraryLoads</key>
+		<true/>
+		<key>NSAllowsArbitraryLoadsInWebContent</key>
+		<true/>
+	</dict>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>antfill.ttf</string>
+		<string>antoutline.ttf</string>
+	</array>
+	<key>NSAppleMusicUsageDescription</key>
+	<string>是否允许此APP访问音乐!</string>
+	<key>NSBluetoothPeripheralUsageDescription</key>
+	<string>bluetooth</string>
+	<key>NSCalendarsUsageDescription</key>
+	<string>Calendars</string>
+	<key>NSCameraUsageDescription</key>
+	<string>是否允许此APP使用你的相机来收录错题图片或者头像？</string>
+	<key>NSContactsUsageDescription</key>
+	<string>contacts</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>是否允许此APP获取你的地理位置信息？</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>是否允许此APP获取你的地理位置信息？</string>
+	<key>NSLocationUsageDescription</key>
+	<string>是否允许此APP获取你的地理位置信息？</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>是否允许此APP获取你的地理位置信息？</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>App需要您的同意,才能访问麦克风</string>
+	<key>NSMotionUsageDescription</key>
+	<string>motion</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>是否允许此APP访问你的相册来选择图片？</string>
 </dict>
 </plist>
